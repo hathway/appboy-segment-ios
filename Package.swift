@@ -8,8 +8,8 @@ let package = Package(
     .iOS(.v12)
   ],
   products: [
-    .library(name: "SegmentAppboyUI", targets: ["Full-SDK"]),
-    .library(name: "SegmentAppboy", targets: ["Core"])
+    .library(name: "Full-SDK", targets: ["Full-SDK"]),
+    .library(name: "Core", targets: ["Core"])
   ],
   dependencies: [
     .package(name: "Segment", url: "https://github.com/segmentio/analytics-ios.git", from: "4.1.1"),
