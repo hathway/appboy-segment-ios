@@ -1,3 +1,8 @@
+# DEPRECATED: DO NOT USE
+-
+This repo only exists for some interim versions of Dutch iOS that used the Braze Segment side by side SDK
+-
+
 ![Braze Logo](https://github.com/Appboy/appboy-segment-ios/blob/master/braze-logo.png)
 
 Braze iOS Segment SDK
